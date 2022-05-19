@@ -11,7 +11,9 @@ const Home = () => {
                 <h1 className='text-4xl sm:text-7xl font-bold'>Sami</h1>
                 <h2 className='text-4xl sm:text-7xl font-bold'>I am ReactJs Developer</h2>
 
-                <p className='text-[#8892b0] py-4 mx-[700px'> I’m a ReactJs developer specializing in building (and occasionally
+                <p className='text-[#8892b0] py-4 mx-[700px'> I have 1+ years of
+                    experience in Software Development, Web
+                    Development, Web Designing, specializing in building (and occasionally
                     designing) exceptional digital experiences. Currently, I’m focused on
                     building responsive full-stack web applications.</p>
                 <div>
